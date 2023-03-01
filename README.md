@@ -1,2 +1,3 @@
 # Anyface
-Anyface can make 3d models from any faces.
+
+The Anyface tool can be used to create arbitrary facial models.
